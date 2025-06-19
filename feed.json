@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Nature of reality",
     "description": "",
-    "home_page_url": "http://mrklocsta.xyz",
-    "feed_url": "http://mrklocsta.xyz/feed.json",
+    "home_page_url": "https://mrklocsta.xyz",
+    "feed_url": "https://mrklocsta.xyz/feed.json",
     "user_comment": "",
     "author": {
         "name": "Madhev"
