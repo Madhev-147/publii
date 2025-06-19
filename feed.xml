@@ -3,10 +3,22 @@
     <title>Nature of reality</title>
     <link href="https://mrklocsta.xyz/feed.xml" rel="self" />
     <link href="https://mrklocsta.xyz" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-06-19T14:42:41+01:00</updated>
     <author>
         <name>Madhev</name>
     </author>
     <id>https://mrklocsta.xyz</id>
 
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Madhev</name>
+        </author>
+        <link href="https://mrklocsta.xyz/test-post.html"/>
+        <id>https://mrklocsta.xyz/test-post.html</id>
+
+        <updated>2025-06-19T14:42:28+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
